@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/shravyakarri">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=666&text=Hello!%20I'm%20Shravya" alt="Hello! I&#39;m Shravya" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=666&text=Hello!%20I'm%20Shravya" alt="Hello!" />
   </a>
 </p>
 
